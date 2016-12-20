@@ -19,11 +19,12 @@ I trained the model using Transfer Learning upon Google Inception and train the 
 
 ![Himself](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Himself.jpg)
 
-* Install
+## Install
+
 I run the image classifier with Tensorflow Docker Image on Google's Cloud Platform: 
 
 docker run -it -v <hostdir>:<imagedir> gcr.io/tensorflow/tensorflow:latest-devel
 
-* Accuracy
+## Accuracy
 
 
