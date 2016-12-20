@@ -27,22 +27,12 @@ docker run -it -v <hostdir>:<imagedir> gcr.io/tensorflow/tensorflow:latest-devel
 
 ## Accuracy
 
-| Gandalf       |               |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+python classify.py Gandalf.jpg
 
-| Magneto       |               |
+| Category      | Score         |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Gandalf       | 94%           |
+| Magneto       | 0.04%         |
+| Richard III   | 0.01%         |
+| Himself       | 0.01%         |
 
-| Richard III   |               |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Himself       |               |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
