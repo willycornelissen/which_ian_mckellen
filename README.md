@@ -27,4 +27,22 @@ docker run -it -v <hostdir>:<imagedir> gcr.io/tensorflow/tensorflow:latest-devel
 
 ## Accuracy
 
+| Gandalf       |               |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
+| Magneto       |               |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Richard III   |               |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Himself       |               |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
