@@ -17,7 +17,7 @@ I trained the model using Transfer Learning upon Google Inception and train the 
 
 4-Himself
 
-![Himself](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Himself.jpg)
+![Proper](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Proper.jpg)
 
 ## Install
 
@@ -54,7 +54,7 @@ python classify.py Richard III.jpg
 | Richard III   | 88%           |
 | Himself       | 0.07%         |
 
-python classify.py Himself.jpg
+python classify.py Proper.jpg
 
 | Category      | Score         |
 | ------------- | ------------- |
