@@ -4,9 +4,17 @@ I trained the model using Transfer Learning upon Google Inception and train the 
 
 1-Ganfalf
 
+![Gandalf](http://url/to/img.png)
+
 2-Magneto
+
+![Magneto](http://url/to/img.png)
 
 3-Richard III
 
+![Richard III](http://url/to/img.png)
+
 4-Himself
+
+![Himseld](http://url/to/img.png)
 
