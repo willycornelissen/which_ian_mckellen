@@ -58,7 +58,7 @@ python classify.py Himself.jpg
 
 | Category      | Score         |
 | ------------- | ------------- |
-| Gandalf       | 0.01%         |
-| Magneto       | 0.04%         |
+| Gandalf       | 0.03%         |
+| Magneto       | 17%           |
 | Richard III   | 0.04%         |
-| Himself       | 91%           |
+| Himself       | 76%           |
