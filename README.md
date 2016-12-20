@@ -4,7 +4,7 @@ I trained the model using Transfer Learning upon Google Inception and train the 
 
 1-Ganfalf
 
-![Gandalf](http://url/to/img.png)
+![Gandalf](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Gandalf.jpg)
 
 2-Magneto
 
