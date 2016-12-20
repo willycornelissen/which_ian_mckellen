@@ -2,19 +2,19 @@
 My first image classifier tells which role Ian McKellen is representing on a photo.
 I trained the model using Transfer Learning upon Google Inception and train the bottleneck with four categories:
 
-1-Ganfalf
+1-Gandalf
 
 ![Gandalf](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Gandalf.jpg)
 
 2-Magneto
 
-![Magneto](http://url/to/img.png)
+![Magneto](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Magneto.jpg)
 
 3-Richard III
 
-![Richard III](http://url/to/img.png)
+![Richard III](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Richard%20III.jpg)
 
 4-Himself
 
-![Himseld](http://url/to/img.png)
+![Himself](https://github.com/willycornelissen/which_ian_mckellen/blob/master/Himself.jpg)
 
